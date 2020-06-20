@@ -42,7 +42,7 @@ namespace CentralizedLoggingSystem
                 app.UseDeveloperExceptionPage();
             }
 
-            loggerFactory.AddFile("Logs/mylog-{Date}.txt");
+            loggerFactory.AddFile(Configuration.GetSection("Logging")["LogFile"]);
 
             app.UseHttpsRedirection();
 
