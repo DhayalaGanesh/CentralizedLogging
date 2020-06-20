@@ -1,5 +1,6 @@
 ﻿using CentralizedLogging.BL;
 using CentralizedLogging.DB.EF.Data;
+using CentralizedLogging.DB.EF.Models;
 using CentralizedLoggingSystem.Controllers;
 using Microsoft.Extensions.Logging;
 using Moq;
@@ -14,7 +15,8 @@ namespace CentralizedLogging.Tests
         public void VerifyNumberOfServices()
         {
             Mock<ILogger<ServicesController>> _logger = new Mock<ILogger<ServicesController>>();
-            IServiceListTable serviceListTable = new ServiceListTable();
+            Mock<CentralizedLoggingContext> centralizedLoggingContext = new Mock<CentralizedLoggingContext>();
+            IServiceListTable serviceListTable = new ServiceListTable(centralizedLoggingContext.Object);
             Mock<ILogsTableData> _logsTableData = new Mock<ILogsTableData>();
             ServicesController servicesController = new ServicesController(_logger.Object, serviceListTable, _logsTableData.Object);
             var returnedValue = servicesController.GetServicesList();
