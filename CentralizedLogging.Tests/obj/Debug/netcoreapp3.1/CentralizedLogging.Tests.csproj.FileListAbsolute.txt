@@ -149,3 +149,10 @@ D:\LoggingSystems\CentralizedLogging\CentralizedLogging.Tests\obj\Debug\netcorea
 D:\LoggingSystems\CentralizedLogging\CentralizedLogging.Tests\obj\Debug\netcoreapp3.1\CentralizedLogging.Tests.dll
 D:\LoggingSystems\CentralizedLogging\CentralizedLogging.Tests\obj\Debug\netcoreapp3.1\CentralizedLogging.Tests.pdb
 D:\LoggingSystems\CentralizedLogging\CentralizedLogging.Tests\obj\Debug\netcoreapp3.1\CentralizedLogging.Tests.genruntimeconfig.cache
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.Tests\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.Tests\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.Tests\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.Tests\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.Tests\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.Tests\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.Tests\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
