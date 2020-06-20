@@ -41,6 +41,8 @@ namespace CentralizedLoggingSystem
 
             app.UseHttpsRedirection();
 
+            app.UseCors(configurePolicy => configurePolicy.AllowAnyOrigin());
+
             app.UseRouting();
 
             app.UseAuthorization();
