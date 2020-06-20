@@ -1,5 +1,5 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using System;
+using System.Collections.Generic;
 using CentralizedLogging.BL;
 using CentralizedLogging.DB.EF.Data;
 using CentralizedLogging.ViewModel;
@@ -29,21 +29,49 @@ namespace CentralizedLoggingSystem.Controllers
         [Route("[action]")]
         public IEnumerable<string> GetServicesList()
         {
-            return _serviceListTable.GetServiceList();
+            List<string> services = null;
+            try
+            {
+                services = _serviceListTable.GetServiceList();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Exception is thrown : {ex.Message}");
+            }
+            return services;
         }
 
         [HttpGet]
         [Route("[action]")]
         public IEnumerable<ServiceBasedLogs> GetServicesLogs(string serviceName)
         {
-            return _logsTableData.GetLogsBasedOnSevice(serviceName);
+            List<ServiceBasedLogs> serviceBasedLogs = null;
+            try
+            {
+                serviceBasedLogs = _logsTableData.GetLogsBasedOnSevice(serviceName);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Exception is thrown : {ex.Message}");
+            }
+
+            return serviceBasedLogs;
         }
 
         [HttpGet]
         [Route("[action]")]
         public IEnumerable<ServiceBasedLogs> GetAllLogs()
         {
-            return _logsTableData.GetAllLogsForAllServices();
+            List<ServiceBasedLogs> serviceBasedLogs = null;
+            try
+            {
+                serviceBasedLogs = _logsTableData.GetAllLogsForAllServices();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Exception is thrown : {ex.Message} Stacktrace : {ex.StackTrace}");
+            }
+            return serviceBasedLogs;
         }
     }
 }
