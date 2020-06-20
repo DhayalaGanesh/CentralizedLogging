@@ -1,13 +1,10 @@
-﻿using CentralizedLogging.DB.EF.Data;
-using CentralizedLogging.DB.EF.Data.Interface;
+﻿using CentralizedLogging.BL;
+using CentralizedLogging.DB.EF.Data;
 using CentralizedLoggingSystem.Controllers;
 using Microsoft.Extensions.Logging;
 using Moq;
 using NUnit.Framework;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace CentralizedLogging.Tests
 {
@@ -18,7 +15,8 @@ namespace CentralizedLogging.Tests
         {
             Mock<ILogger<ServicesController>> _logger = new Mock<ILogger<ServicesController>>();
             IServiceListTable serviceListTable = new ServiceListTable();
-            ServicesController servicesController = new ServicesController(_logger.Object, serviceListTable);
+            Mock<ILogsTableData> _logsTableData = new Mock<ILogsTableData>();
+            ServicesController servicesController = new ServicesController(_logger.Object, serviceListTable, _logsTableData.Object);
             var returnedValue = servicesController.GetServicesList();
 
             Assert.AreEqual(5, returnedValue.Count());

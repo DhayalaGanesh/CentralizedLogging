@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CentralizedLogging.BL\CentralizedLogging.BL.csproj" />
     <ProjectReference Include="..\CentralizedLogging.DB.EF\CentralizedLogging.DB.EF.csproj" />
   </ItemGroup>
 

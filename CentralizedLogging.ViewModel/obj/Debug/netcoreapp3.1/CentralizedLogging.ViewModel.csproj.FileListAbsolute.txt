@@ -1,0 +1,9 @@
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.ViewModel\bin\Debug\netcoreapp3.1\CentralizedLogging.ViewModel.deps.json
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.ViewModel\bin\Debug\netcoreapp3.1\CentralizedLogging.ViewModel.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.ViewModel\bin\Debug\netcoreapp3.1\CentralizedLogging.ViewModel.pdb
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.ViewModel\obj\Debug\netcoreapp3.1\CentralizedLogging.ViewModel.csproj.CoreCompileInputs.cache
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.ViewModel\obj\Debug\netcoreapp3.1\CentralizedLogging.ViewModel.AssemblyInfoInputs.cache
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.ViewModel\obj\Debug\netcoreapp3.1\CentralizedLogging.ViewModel.AssemblyInfo.cs
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.ViewModel\obj\Debug\netcoreapp3.1\CentralizedLogging.ViewModel.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.ViewModel\obj\Debug\netcoreapp3.1\CentralizedLogging.ViewModel.pdb
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.ViewModel\obj\Debug\netcoreapp3.1\CentralizedLogging.ViewModel.csprojAssemblyReference.cache

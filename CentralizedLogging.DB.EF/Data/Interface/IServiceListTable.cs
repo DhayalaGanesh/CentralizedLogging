@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace CentralizedLogging.DB.EF.Data.Interface
+namespace CentralizedLogging.DB.EF.Data
 {
     public interface IServiceListTable
     {

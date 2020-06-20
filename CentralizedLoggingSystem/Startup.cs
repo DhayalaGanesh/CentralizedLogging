@@ -1,17 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using CentralizedLogging.BL;
 using CentralizedLogging.DB.EF.Data;
-using CentralizedLogging.DB.EF.Data.Interface;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 
 namespace CentralizedLoggingSystem
 {
@@ -29,6 +22,8 @@ namespace CentralizedLoggingSystem
         {
             services.AddControllers();
             services.AddSingleton<IServiceListTable, ServiceListTable>();
+            services.AddSingleton<ILogsTableData, LogsTableData>();
+            services.AddSingleton<ILogsTable, LogsTable>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

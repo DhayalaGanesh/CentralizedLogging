@@ -2008,10 +2008,25 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "CentralizedLogging.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CentralizedLogging.DB.EF": "1.0.0",
+          "CentralizedLogging.ViewModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CentralizedLogging.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CentralizedLogging.BL.dll": {}
+        }
+      },
       "CentralizedLogging.DB.EF/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "CentralizedLogging.ViewModel": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
           "Microsoft.Extensions.Configuration": "3.1.5",
@@ -2026,11 +2041,25 @@
           "bin/placeholder/CentralizedLogging.DB.EF.dll": {}
         }
       },
+      "CentralizedLogging.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CentralizedLogging.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CentralizedLogging.ViewModel.dll": {}
+        }
+      },
       "CentralizedLoggingSystem/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "CentralizedLogging.DB.EF": "1.0.0"
+          "CentralizedLogging.BL": "1.0.0",
+          "CentralizedLogging.DB.EF": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
+          "Microsoft.Extensions.Configuration": "3.1.5"
         },
         "compile": {
           "bin/placeholder/CentralizedLoggingSystem.dll": {}
@@ -7158,10 +7187,20 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "CentralizedLogging.BL/1.0.0": {
+      "type": "project",
+      "path": "../CentralizedLogging.BL/CentralizedLogging.BL.csproj",
+      "msbuildProject": "../CentralizedLogging.BL/CentralizedLogging.BL.csproj"
+    },
     "CentralizedLogging.DB.EF/1.0.0": {
       "type": "project",
       "path": "../CentralizedLogging.DB.EF/CentralizedLogging.DB.EF.csproj",
       "msbuildProject": "../CentralizedLogging.DB.EF/CentralizedLogging.DB.EF.csproj"
+    },
+    "CentralizedLogging.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../CentralizedLogging.ViewModel/CentralizedLogging.ViewModel.csproj",
+      "msbuildProject": "../CentralizedLogging.ViewModel/CentralizedLogging.ViewModel.csproj"
     },
     "CentralizedLoggingSystem/1.0.0": {
       "type": "project",

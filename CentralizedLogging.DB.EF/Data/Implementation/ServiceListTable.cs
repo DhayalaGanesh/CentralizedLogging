@@ -1,5 +1,4 @@
-﻿using CentralizedLogging.DB.EF.Data.Interface;
-using CentralizedLogging.DB.EF.Models;
+﻿using CentralizedLogging.DB.EF.Models;
 using System.Collections.Generic;
 using System.Linq;
 

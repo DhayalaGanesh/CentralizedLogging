@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using CentralizedLogging.DB.EF.Data.Interface;
+using CentralizedLogging.BL;
+using CentralizedLogging.DB.EF.Data;
+using CentralizedLogging.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
@@ -12,19 +12,17 @@ namespace CentralizedLoggingSystem.Controllers
     [Route("[controller]")]
     public class ServicesController : ControllerBase
     {
-        private static readonly string[] Summaries = new[]
-        {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-        };
-
         private readonly ILogger<ServicesController> _logger;
         private readonly IServiceListTable _serviceListTable;
+        private readonly ILogsTableData _logsTableData;
 
         public ServicesController(ILogger<ServicesController> logger,
-            IServiceListTable serviceListTable)
+            IServiceListTable serviceListTable,
+            ILogsTableData logsTableData)
         {
             _logger = logger;
             _serviceListTable = serviceListTable;
+            _logsTableData = logsTableData;
         }
 
         [HttpGet]
@@ -32,6 +30,20 @@ namespace CentralizedLoggingSystem.Controllers
         public IEnumerable<string> GetServicesList()
         {
             return _serviceListTable.GetServiceList();
+        }
+
+        [HttpGet]
+        [Route("[action]")]
+        public IEnumerable<ServiceBasedLogs> GetServicesLogs(string serviceName)
+        {
+            return _logsTableData.GetLogsBasedOnSevice(serviceName);
+        }
+
+        [HttpGet]
+        [Route("[action]")]
+        public IEnumerable<ServiceBasedLogs> GetAllLogs()
+        {
+            return _logsTableData.GetAllLogsForAllServices();
         }
     }
 }
