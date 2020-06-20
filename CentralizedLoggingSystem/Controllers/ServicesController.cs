@@ -28,6 +28,7 @@ namespace CentralizedLoggingSystem.Controllers
         }
 
         [HttpGet]
+        [Route("[action]")]
         public IEnumerable<string> GetServicesList()
         {
             return _serviceListTable.GetServiceList();
