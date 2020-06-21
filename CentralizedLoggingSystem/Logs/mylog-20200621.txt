@@ -1,0 +1,8 @@
+2020-06-21T10:36:03.3442517+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-21T10:36:03.4065438+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-21T10:36:03.4092797+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-21T10:36:03.6065662+05:30 80000256-0005-fe00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-06-21T16:00:07.2624473+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-21T16:00:07.2743591+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-21T16:00:07.2765388+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-21T16:00:07.3111128+05:30 80000131-0006-fc00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
