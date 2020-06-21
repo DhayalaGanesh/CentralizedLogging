@@ -30,7 +30,8 @@ namespace CentralizedLogging.DB.EF.Data
                     {
                         ServiceName = lg.Service.ServiceName,
                         LogMessages = lg.LogMessages,
-                        DateAndTime = lg.DateAndTime
+                        DateAndTime = lg.DateAndTime,
+                        Status = lg.Status
                     }).ToList();
 
             return logs;
