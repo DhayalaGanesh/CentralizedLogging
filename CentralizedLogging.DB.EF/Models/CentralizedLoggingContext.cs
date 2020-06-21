@@ -35,17 +35,25 @@ namespace CentralizedLogging.DB.EF.Models
 
                 entity.ToTable("Logs", "CL");
 
-                entity.Property(e => e.LogId).ValueGeneratedOnAdd();
+                entity.Property(e => e.DateAndTime)
+                    .HasColumnType("datetime")
+                    .HasDefaultValueSql("(getdate())");
 
                 entity.Property(e => e.LogMessages)
                     .HasMaxLength(255)
                     .IsUnicode(false);
 
-                entity.HasOne(d => d.Log)
-                    .WithOne(p => p.Logs)
-                    .HasForeignKey<Logs>(d => d.LogId)
+                entity.Property(e => e.Status)
+                    .IsRequired()
+                    .HasMaxLength(6)
+                    .IsUnicode(false)
+                    .HasDefaultValueSql("('Error')");
+
+                entity.HasOne(d => d.Service)
+                    .WithMany(p => p.Logs)
+                    .HasForeignKey(d => d.ServiceId)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__Logs__LogId__2C3393D0");
+                    .HasConstraintName("FK__Logs__ServiceId__32E0915F");
             });
 
             modelBuilder.Entity<ServicesList>(entity =>

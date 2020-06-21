@@ -1,0 +1,15 @@
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\bin\Release\netcoreapp3.1\CentralizedLogging.DB.EF.exe
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\bin\Release\netcoreapp3.1\CentralizedLogging.BL.deps.json
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\bin\Release\netcoreapp3.1\CentralizedLogging.BL.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\bin\Release\netcoreapp3.1\CentralizedLogging.BL.pdb
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\bin\Release\netcoreapp3.1\CentralizedLogging.DB.EF.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\bin\Release\netcoreapp3.1\CentralizedLogging.ViewModel.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\bin\Release\netcoreapp3.1\CentralizedLogging.DB.EF.pdb
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\bin\Release\netcoreapp3.1\CentralizedLogging.ViewModel.pdb
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\obj\Release\netcoreapp3.1\CentralizedLogging.BL.csprojAssemblyReference.cache
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\obj\Release\netcoreapp3.1\CentralizedLogging.BL.csproj.CoreCompileInputs.cache
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\obj\Release\netcoreapp3.1\CentralizedLogging.BL.AssemblyInfoInputs.cache
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\obj\Release\netcoreapp3.1\CentralizedLogging.BL.AssemblyInfo.cs
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\obj\Release\netcoreapp3.1\CentralizedLogging.BL.csproj.CopyComplete
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\obj\Release\netcoreapp3.1\CentralizedLogging.BL.dll
+D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\obj\Release\netcoreapp3.1\CentralizedLogging.BL.pdb
