@@ -1,5 +1,5 @@
 # CentralizedLogging-Backend
- dotnetcore with c#
+ DotNet Core with c#
  
  Steps to be followed for setting up in local:
  1) Database needs to be setup with the backup file for database or with SQL query
