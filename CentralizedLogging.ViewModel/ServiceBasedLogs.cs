@@ -9,5 +9,7 @@ namespace CentralizedLogging.ViewModel
         public string ServiceName { get; set; }
 
         public DateTime DateAndTime { get; set; }
+
+        public string Status { get; set; }
     }
 }

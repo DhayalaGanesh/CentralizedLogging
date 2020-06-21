@@ -20,7 +20,8 @@ namespace CentralizedLogging.BL
             {
                 ServiceName = serviceName,
                 LogMessages = x.LogMessages,
-                DateAndTime = x.DateAndTime
+                DateAndTime = x.DateAndTime,
+                Status = x.Status
             }).ToList();
 
             return logList;
