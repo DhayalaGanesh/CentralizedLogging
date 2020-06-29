@@ -22,7 +22,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "D:\\LscLogistics\\UIApplication\\src\\ThemePackage": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://lsc-log.pkgs.visualstudio.com/_packaging/lsccl/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -81,7 +83,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "D:\\LscLogistics\\UIApplication\\src\\ThemePackage": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://lsc-log.pkgs.visualstudio.com/_packaging/lsccl/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -175,7 +179,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "D:\\LscLogistics\\UIApplication\\src\\ThemePackage": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://lsc-log.pkgs.visualstudio.com/_packaging/lsccl/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

@@ -1,0 +1,166 @@
+2020-06-29T00:50:08.8750358+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-29T00:50:08.8846685+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-29T00:50:08.8867811+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-29T00:50:08.9224342+05:30 80000252-0005-fc00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-06-29T00:54:48.7126724+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-29T00:54:48.7261984+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-29T00:54:48.7317805+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-29T00:54:48.7751249+05:30 800000f4-0004-f900-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-06-29T01:05:03.9642001+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-29T01:05:03.9753090+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-29T01:05:03.9773189+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-29T01:05:04.0138447+05:30 80000255-0005-fc00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-06-29T01:07:03.6872216+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-29T01:07:03.6963227+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-29T01:07:03.6983655+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-29T01:07:03.7307412+05:30 80000258-0005-fc00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-06-29T01:11:34.8431807+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-29T01:11:34.8526806+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-29T01:11:34.8550404+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-29T01:11:34.8879435+05:30 8000025e-0005-fc00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-06-29T01:12:43.8481101+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-29T01:12:43.8753496+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-29T01:12:43.8795181+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-29T01:12:43.9582135+05:30 80000190-0006-ff00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-06-29T10:29:45.7070044+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-29T10:29:45.7279733+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-29T10:29:45.7318994+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-29T10:29:45.8048565+05:30 8000011f-0004-f900-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-06-29T10:37:46.3580624+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-29T10:37:46.3698877+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-29T10:37:46.3719794+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-29T10:37:46.4066817+05:30 80000263-0005-fc00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-06-29T10:38:34.0371935+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-29T10:38:34.0526360+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-29T10:38:34.0550649+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-29T10:38:34.1019999+05:30 80000122-0004-f900-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-06-29T11:13:06.4191001+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-29T11:13:06.4315854+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-29T11:13:06.4338518+05:30  [INF] Content root path: "D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem" (b5d60022)
+2020-06-29T11:13:06.4706181+05:30 800001a6-0006-ff00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2020-06-29T11:14:10.2510808+05:30 8000017c-0006-fc00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("294"ms) [Parameters=["@p0='?' (DbType = DateTime), @p1='?' (Size = 255) (DbType = AnsiString), @p2='?' (DbType = Int32), @p3='?' (Size = -1) (DbType = AnsiString)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [CL].[Logs] ([DateAndTime], [LogMessages], [ServiceId], [Status])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [LogId]
+FROM [CL].[Logs]
+WHERE @@ROWCOUNT = 1 AND [LogId] = scope_identity();" (627a98df)
+2020-06-29T11:14:10.3231205+05:30 8000017c-0006-fc00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"CentralizedLogging.DB.EF.Models.CentralizedLoggingContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'CentralizedLogging.CL.Logs', column 'Status'. Truncated value: 'Succes'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:b9f0ca7b-45f7-48ad-96d8-8932fd64d0da
+Error Number:2628,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'CentralizedLogging.CL.Logs', column 'Status'. Truncated value: 'Succes'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:b9f0ca7b-45f7-48ad-96d8-8932fd64d0da
+Error Number:2628,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at CentralizedLogging.DB.EF.Data.LogsTable.AddLogsToTable(ServiceBasedLogs serviceBasedLogs) in D:\LoggingSystems\CentralizedLogging\CentralizedLogging.DB.EF\Data\Implementation\LogsTable.cs:line 64
+   at CentralizedLogging.BL.LogsTableData.AddLogs(ServiceBasedLogs log) in D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\Implementation\LogsTableData.cs:line 57
+   at CentralizedLoggingSystem.Controllers.ServicesController.AddLogs(ServiceBasedLogs log) in D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem\Controllers\ServicesController.cs:line 97
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+2020-06-29T11:18:58.8148976+05:30 8000017c-0006-fc00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'CentralizedLogging.CL.Logs', column 'Status'. Truncated value: 'Succes'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:b9f0ca7b-45f7-48ad-96d8-8932fd64d0da
+Error Number:2628,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at CentralizedLogging.DB.EF.Data.LogsTable.AddLogsToTable(ServiceBasedLogs serviceBasedLogs) in D:\LoggingSystems\CentralizedLogging\CentralizedLogging.DB.EF\Data\Implementation\LogsTable.cs:line 64
+   at CentralizedLogging.BL.LogsTableData.AddLogs(ServiceBasedLogs log) in D:\LoggingSystems\CentralizedLogging\CentralizedLogging.BL\Implementation\LogsTableData.cs:line 57
+   at CentralizedLoggingSystem.Controllers.ServicesController.AddLogs(ServiceBasedLogs log) in D:\LoggingSystems\CentralizedLogging\CentralizedLoggingSystem\Controllers\ServicesController.cs:line 97
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)

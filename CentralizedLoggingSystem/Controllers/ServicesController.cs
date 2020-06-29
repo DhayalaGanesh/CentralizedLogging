@@ -73,5 +73,34 @@ namespace CentralizedLoggingSystem.Controllers
             }
             return serviceBasedLogs;
         }
+
+        [HttpGet]
+        [Route("[action]")]
+        public IEnumerable<ServiceBasedLogs> GetLogsForServicesList([FromQuery(Name = "serviceNames")] List<string> serviceNames)
+        {
+            List<ServiceBasedLogs> serviceBasedLogs = null;
+            try
+            {
+                serviceBasedLogs = _logsTableData.GetLogsBasedOnSevice(serviceNames);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Exception is thrown : {ex.Message} Stacktrace : {ex.StackTrace}");
+            }
+            return serviceBasedLogs;
+        }
+
+        [HttpPost]
+        [Route("[action]")]
+        public ContentResult AddLogs(ServiceBasedLogs log)
+        {
+            bool returnedValue = _logsTableData.AddLogs(log);
+            ContentResult contentResult = new ContentResult
+            {
+                StatusCode = returnedValue ? 200 : 500
+            };
+
+            return contentResult;
+        }
     }
 }

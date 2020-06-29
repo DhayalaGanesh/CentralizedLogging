@@ -35,5 +35,26 @@ namespace CentralizedLogging.BL
 
             return logList;
         }
+
+        public List<ServiceBasedLogs> GetLogsBasedOnSevice(List<string> serviceNames)
+        {
+            List<ServiceBasedLogs> logList = null;
+
+            logList = _logsTable.GetLogsServiceName(serviceNames).Select(x=>
+            new ServiceBasedLogs
+            {
+                ServiceName=x.Service.ServiceName,
+                Status=x.Status,
+                LogMessages=x.LogMessages,
+                DateAndTime=x.DateAndTime
+            }).ToList();
+
+            return logList;
+        }
+
+        public bool AddLogs(ServiceBasedLogs log)
+        {
+            return _logsTable.AddLogsToTable(log);
+        }
     }
 }
